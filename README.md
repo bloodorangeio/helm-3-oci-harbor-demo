@@ -113,3 +113,5 @@ You may also choose to use `--debug` on push to view extra HTTP request info.
 Helm charts over OCI have not been fully integrated into the Harbor user experience just yet. For example, you should be able to view your charts in the UI, but you may see a lot of empty fields everywhere.
 
 However, Harbor can still be used as a centralized chart registry to be leveraged across all Helm 3 clients.
+
+For more info, please see [this issue](https://github.com/goharbor/harbor/issues/9260).
